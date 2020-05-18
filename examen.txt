@@ -1,0 +1,54 @@
+1.¿En que versión de ECMAScript se implementó "trimStart"?
+R=[ES10]
+
+2.Identifica el código que implementa "Optional Catch Binding":
+R= [try {// some code} catch { // error handling code}]
+
+
+3.string.includes(value) fue implementado en:
+R=[ES7]
+
+4.¿Cuál es el comando para inicializar nuestro proyecto con Node.js?
+R= [npm init]
+
+5.¿Cuál es la forma correcta de exportar un módulo en ES6?
+R=[export default functionName;]
+
+6.En un generator utilizamos "next" para:
+R=[Retornar el siguiente valor.]
+
+7.¿Qué representa el siguiente codigo? let result = base ** exponent;
+R=[Operador de Exponenciación.]
+
+8. Identifica la "Promesa" entre los siguientes bloques de código:
+
+R= [const helloPromise = () => {
+    return new Promise((resolve, reject) => {
+      if (true) {
+        resolve('Hey!');
+      } else {
+        reject('Whooops!');
+      }
+    });
+  };]
+
+9.¿Cuál es la forma propuesta en ES6 para hacer multilínea?
+  R=[let lorem2 = `Qui consequatur.
+  so si irure but.
+  `;]
+
+10.¿Cuál es la forma correcta de reasignar una variable?
+  R=['Ninguna']
+
+11.Las Arrows Functions fueron incorporadas en:
+  R= [ES6]
+12.¿En qué versión de ECMAScript fueron implementadas las Async functions?
+  R=[ES8]
+13.¿En qué versión de ECMAScript se implementaron las "Trailing commas"?
+  R=Es9
+  R2=ES7
+14.¿Una variable asignada con "let" solo está disponible dentro del scope donde es definida?
+  R= [True]
+
+15.Default Params se implementó en:
+  R=[ES6]
